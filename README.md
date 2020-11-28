@@ -1,8 +1,8 @@
-# 3D-Character
+#05-3D-RPG
 
-An animated 3D character that can be used in the 3D-RPG project.
+This is my submission for the 05-3D-RPG assignment
 
-Based on the [Kenney Character Assets](https://kenney.itch.io/kenney-character-assets) provided by kenney.nl. The model and animations were compiled in Blender and then imported into Godot.
-
-## Implementation
-Created in Blender 2.90.1 and Godot 3.2.2
+#Additonal features:
+- custom lightsaber mode
+- custom targets model
+- custom drone model
